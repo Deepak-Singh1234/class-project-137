@@ -1,0 +1,13 @@
+#erty{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: gray;
+    color: whitesmoke;
+}
+
+canvas{
+    border: 15px solid white;
+    border-radius: 10%;
+    box-shadow: 15px 15px 20px black;
+}
